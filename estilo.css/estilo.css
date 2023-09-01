@@ -1,0 +1,29 @@
+body {
+    text-align: justify;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #1a24b4;
+}
+.section {
+    margin: 20px;
+}
+h1 {
+    color: #080d13;
+    text-align: center;
+    margin-top: 20px;
+}
+.centered {
+    text-align: center;
+}
+li {
+    margin-bottom: 15px;
+}
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 60%;
+}
