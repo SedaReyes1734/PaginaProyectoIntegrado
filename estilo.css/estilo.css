@@ -27,9 +27,3 @@ li {
     margin-top: 20px;
     width: 60%;
 }
-body {
-    heigh:665px;
-    background-image: url("foto.png");
-    background-repeat: repeat-y;
-    background-size: 10rem;
-  }
